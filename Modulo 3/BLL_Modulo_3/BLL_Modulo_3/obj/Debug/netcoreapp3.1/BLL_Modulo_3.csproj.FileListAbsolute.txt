@@ -1,0 +1,14 @@
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\BLL_Modulo_3.deps.json
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\BLL_Modulo_3.dll
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\BLL_Modulo_3.pdb
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.csprojAssemblyReference.cache
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.AssemblyInfoInputs.cache
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.AssemblyInfo.cs
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.csproj.CoreCompileInputs.cache
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.csproj.CopyComplete
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.dll
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\obj\Debug\netcoreapp3.1\BLL_Modulo_3.pdb
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Salvador.Cirino\Desktop\TP\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\Entity.pdb

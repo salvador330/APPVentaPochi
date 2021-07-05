@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BLL_Modulo_2">
+      <HintPath>..\..\..\Modulo 2\BLL_Modulo_2\BLL_Modulo_2\obj\Debug\netcoreapp3.1\BLL_Modulo_2.dll</HintPath>
+    </Reference>
+    <Reference Include="BLL_Modulo_3">
+      <HintPath>..\..\..\Modulo 3\BLL_Modulo_3\BLL_Modulo_3\bin\Debug\netcoreapp3.1\BLL_Modulo_3.dll</HintPath>
+    </Reference>
+    <Reference Include="BLL_Modulo_4">
+      <HintPath>..\..\..\Modulo 4\BLL_Modulo_4\BLL_Modulo_4\bin\Debug\netcoreapp3.1\BLL_Modulo_4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
