@@ -1651,10 +1651,6 @@
       },
       "DAL/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Entity": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/DAL.dll": {}
         },
