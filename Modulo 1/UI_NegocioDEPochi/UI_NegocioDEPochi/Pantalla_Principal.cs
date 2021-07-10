@@ -5,6 +5,9 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using BLL_Modulo_2;
+using BLL_Modulo_3;
+using BLL_Modulo_4;
 using Entity;
 
 namespace UI_NegocioDEPochi
